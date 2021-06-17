@@ -1,0 +1,12 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\bin\Debug\netcoreapp3.1\Eleicoes.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\excercicio-logica-programacao9\Eleicoes\Eleicoes\obj\Debug\netcoreapp3.1\Eleicoes.genruntimeconfig.cache
